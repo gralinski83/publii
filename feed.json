@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "szitcoins",
+    "description": "",
+    "home_page_url": "https://github.com/gralinski83/publii",
+    "feed_url": "https://github.com/gralinski83/publii/feed.json",
+    "user_comment": "",
+    "icon": "https://github.com/gralinski83/publii/media/website/beard-and-sunglasses-silhouette-48-265162.png",
+    "author": {
+        "name": "satoshi"
+    },
+    "items": [
+        {
+            "id": "https://github.com/gralinski83/publii/contact.html",
+            "url": "https://github.com/gralinski83/publii/contact.html",
+            "title": "Contact",
+            "summary": "Contact",
+            "content_html": "Contact",
+            "image": "https://github.com/gralinski83/publii/media/posts/2/",
+            "author": {
+                "name": "satoshi"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-02T13:59:39+00:00",
+            "date_modified": "2018-11-02T13:59:39+00:00"
+        },
+        {
+            "id": "https://github.com/gralinski83/publii/shop.html",
+            "url": "https://github.com/gralinski83/publii/shop.html",
+            "title": "Shop",
+            "summary": "Shop",
+            "content_html": "Shop",
+            "image": "https://github.com/gralinski83/publii/media/posts/1/",
+            "author": {
+                "name": "satoshi"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-02T13:59:22+00:00",
+            "date_modified": "2018-11-02T13:59:22+00:00"
+        }
+    ]
+}

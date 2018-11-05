@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>szitcoins</title>
+    <link href="https://github.com/gralinski83/publii/feed.xml" rel="self" />
+    <link href="https://github.com/gralinski83/publii" />
+    <updated>2018-11-05T12:18:45+00:00</updated>
+    <author>
+        <name>satoshi</name>
+    </author>
+    <id>https://github.com/gralinski83/publii</id>
+
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>satoshi</name>
+        </author>
+        <link href="https://github.com/gralinski83/publii/contact.html"/>
+        <id>https://github.com/gralinski83/publii/contact.html</id>
+
+        <updated>2018-11-02T13:59:39+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/gralinski83/publii/media/posts/2/" alt="" />
+                    Contact
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/gralinski83/publii/media/posts/2/" alt="" />
+                Contact
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Shop</title>
+        <author>
+            <name>satoshi</name>
+        </author>
+        <link href="https://github.com/gralinski83/publii/shop.html"/>
+        <id>https://github.com/gralinski83/publii/shop.html</id>
+
+        <updated>2018-11-02T13:59:22+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/gralinski83/publii/media/posts/1/" alt="" />
+                    Shop
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/gralinski83/publii/media/posts/1/" alt="" />
+                Shop
+            ]]>
+        </content>
+    </entry>
+</feed>

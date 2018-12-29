@@ -3,12 +3,24 @@
     <title>szitcoins</title>
     <link href="https://gralinski83.github.io/publii/feed.xml" rel="self" />
     <link href="https://gralinski83.github.io/publii" />
-    <updated>2018-11-05T14:42:03+00:00</updated>
+    <updated>2018-12-29T22:13:24+00:00</updated>
     <author>
         <name>satoshi</name>
     </author>
     <id>https://gralinski83.github.io/publii</id>
 
+    <entry>
+        <title>Video</title>
+        <author>
+            <name>satoshi</name>
+        </author>
+        <link href="https://gralinski83.github.io/publii/video.html"/>
+        <id>https://gralinski83.github.io/publii/video.html</id>
+
+        <updated>2018-11-05T16:27:20+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Gallery</title>
         <author>
@@ -17,7 +29,7 @@
         <link href="https://gralinski83.github.io/publii/gallery.html"/>
         <id>https://gralinski83.github.io/publii/gallery.html</id>
 
-        <updated>2018-11-05T14:41:24+00:00</updated>
+        <updated>2018-11-05T16:25:29+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
